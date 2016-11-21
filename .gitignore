@@ -1,0 +1,10 @@
+node_modules
+bower_components
+plugins
+apidocs/
+mobile/platforms
+mobile/plugins
+mobile/emulator
+assets/
+mobile/www/config/
+.idea/
