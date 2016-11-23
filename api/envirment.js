@@ -2,8 +2,8 @@
 var mysql = require('mysql');
 var http = require('http');
 
-var enviroment = {
-	Dbconnection : mysql.createPool({
+var 		enviroment = {
+			Dbconnection : mysql.createPool({
 			database : 'fever',
 		    user : 'ftdev',
 			password : '10gXWOqeaf',
